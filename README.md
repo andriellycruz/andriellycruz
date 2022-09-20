@@ -6,4 +6,4 @@
 
 <!---
 andrielly/andriellycruz esse ✨ especial ✨ repositório porque seu `README.md` (este arquivo) aparece no seu perfil do GITHub..
-Vocẽ pode clicar no link Visualizar para dar uma olhada nas suas alterções.--->
+Vocẽ pode clicar no link Visualizar para dar uma olhada nas suas alterções.--->.
